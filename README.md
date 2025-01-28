@@ -1,22 +1,22 @@
 # IBM-Data-Analyst-Capstone-Project-Dashboards
 In this assignment, i will create visualizations using the 2024 Stack Overflow survey dataset and add them to dashboards in Google Looker Studio.
 
-Software used in this assignment
+# Software used in this assignment
 Google's Looker Studio
 
-Prerequisites
+# Prerequisites
 You need access to Google Looker studio. This Google Looker studio lab will guide to get your access to Google Looker studio, and also get you started with how to use it to analyze the data.
 
-Dataset used in this assignment
+# Dataset used in this assignment
 The data set used in this assignment is the Stack Overflow Developer Survey data is available at: https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/HLOosvsPgIwt5dgOOh1RSg/survey-data-updated.csv
 
 We are using a modified subset of that data set for the assignment, so to follow the assigment instructions successfully, please use the data set provided with the assignment, rather than the data set from the original source.
 
-Guidelines for the submission
+# Guidelines for the submission
 Extract the file and upload : survey_results_updated.csv file s as data assets to your Googel Looker Studio.
 
 
-Current Technology Usage - Use the 2 x 2 rectangle areas template:
+# Current Technology Usage - Use the 2 x 2 rectangle areas template:
 
 Panel 1: Top 10 Languages Used (Stacked Bar)
 Panel 2: Top 10 Databases Used (Stacked Column)
