@@ -12,10 +12,6 @@ The data set used in this assignment is the Stack Overflow Developer Survey data
 
 We are using a modified subset of that data set for the assignment, so to follow the assigment instructions successfully, please use the data set provided with the assignment, rather than the data set from the original source.
 
-# Guidelines for the submission
-Extract the file and upload : survey_results_updated.csv file s as data assets to your Googel Looker Studio.
-
-
 # Current Technology Usage - Use the 2 x 2 rectangle areas template:
 
 Panel 1: Top 10 Languages Used (Stacked Bar)
