@@ -1,4 +1,4 @@
-# IBM-Data-Analyst-Capstone-Project-Dashboards
+# IBM-Data-Analyst-Capstone-Project-Dashboard
 In this assignment, i will create visualizations using the 2024 Stack Overflow survey dataset and add them to dashboards in Google Looker Studio.
 
 # Software used in this assignment
