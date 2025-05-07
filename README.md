@@ -1,10 +1,13 @@
 # Proyecto Final de curso profesional de analista programador
 Los links a los PDF finales tienen error al verlos en github, sugiero bajarlos para verlos localmente
 # Dashboard con gráficos realizados en el estudio.
+
 [Capstone_Project_Dashboard.pdf](https://github.com/user-attachments/files/20076128/Capstone_Project_Dashboard.pdf)
 #Presentación final en inglés para optar a la certificación.
+
 [DataAnalystPresentation.pdf](https://github.com/user-attachments/files/20076127/DataAnalystPresentation.pdf)
 #Imagen previa de algunos gráficos del dashboard.
+
 ![image](https://github.com/user-attachments/assets/f046d003-3b6a-405a-b488-9324863bfe54)
 
 # IBM-Data-Analyst-Capstone-Project-Dashboard
